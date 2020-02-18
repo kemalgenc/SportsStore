@@ -1,0 +1,6 @@
+{
+  "proxy": "http://zkprx:8080",
+  "https-proxy": "http://zkprx:8080",
+  "strict-ssl": false,
+  "directory": "wwwroot/lib"
+}
